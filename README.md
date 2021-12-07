@@ -8,7 +8,7 @@ This application allows you to *draw objects*:
 
 ![13](https://user-images.githubusercontent.com/61964257/145093509-5b7f8377-84c1-4b79-b47f-9915426485fd.PNG)
 
-Also, it is possible to select, modify and delete drawn objects. The picture shows the process of modifying the line.
+Also, it is possible to *select*, *modify* and *delete* drawn objects. The picture shows the process of modifying the line.
 ![14](https://user-images.githubusercontent.com/61964257/145093512-bef77abb-cec5-470e-958c-057edc1cf085.PNG)
 
 Deleting a rectangle is shown in the following picture.
